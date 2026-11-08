@@ -4,7 +4,7 @@ A Python backend for creating and persisting e-commerce orders with PostgreSQL. 
 
 **Interface:** Command-line entry point (no HTTP API or web interface in the current version).
 
-**Documentation:** [Tiếng Việt](README.md) | **English**
+**Documentation:** [Tiếng Việt](README_vi.md) | **English**
 
 ## Contents
 
@@ -78,8 +78,8 @@ A Python backend for creating and persisting e-commerce orders with PostgreSQL. 
 ├── .gitignore
 ├── compose.yml                     # PostgreSQL container definition
 ├── pyproject.toml
-├── README.md                       # Vietnamese documentation
-└── README_EN.md                    # English documentation
+├── README.md                       #  English documentation
+└── README_vi.md                    # Vietnamese documentation
 ```
 
 ## Architecture
